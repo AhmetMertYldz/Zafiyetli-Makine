@@ -55,5 +55,9 @@ Projeyi geliştirmek isteyen herkes `pull request` göndererek katkı sağlayabi
 ---
 
 ## 👣 Katkıda Bulunanlar
-
-Takım üyeleri + katkıda bulunan geliştiriciler
+Ahmet Mert Yıldız
+Furkan Karataş
+Ahmet Sefa Ünal
+Umut Kocatepe
+İlhan Demirel
+Muhammed Ali Toprak
