@@ -1,8 +1,8 @@
-# 🔐 Zafiyetli Makine Projesi
+# 🔐 Zafiyetli Makine 
 
 Zafiyetli Makine, siber güvenlik uzmanları, öğrenciler ve güvenlik araştırmacıları için hazırlanmış, gerçek dünya senaryolarını barındıran bir güvenlik eğitim platformudur.
 
-## 🎯 Proje Amacı
+## 🎯 Amacımız
 - Kullanıcılara gerçek güvenlik zafiyetleri üzerinden pratik yapma imkânı sunmak  
 - Sızma testi (penetrasyon) tekniklerini deneyimletmek  
 - Eğitimde teorik bilgiyle pratiği birleştirmek
