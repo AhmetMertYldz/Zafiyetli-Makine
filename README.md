@@ -49,7 +49,7 @@ Projeyi geliştirmek isteyen herkes `pull request` göndererek katkı sağlayabi
 
 - [Kullanım_Kılavuzu.pdf](https://github.com/user-attachments/files/20533566/Kullanim_Kilavuzu.pdf)
 
-- [Takım Broşürü (PDF)][Takım_Broşürü.pdf](https://github.com/user-attachments/files/20533570/Takim_Brosuru.pdf)
+- [Takım_Broşürü.pdf](https://github.com/user-attachments/files/20533570/Takim_Brosuru.pdf)
 
 
 ---
